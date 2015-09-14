@@ -4,15 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPattern
+namespace DesignPattern.DesignPatterns
 {
-    class Program
+    class AbstractFactory
     {
-        static void Main(string[] args)
-        {
-
-
-
-        }
+        //Testing 
     }
 }
